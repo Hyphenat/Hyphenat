@@ -51,3 +51,9 @@ Currently focused on:
 
 💼 LinkedIn:
 https://www.linkedin.com/in/farhan-sargath-646b06292/
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hyphenat/Hyphenat/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
